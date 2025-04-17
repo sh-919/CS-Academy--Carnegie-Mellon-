@@ -1,3 +1,3 @@
-# CS-Academy
+# CS-Academy (Carnegie Mellon)
 
 #WIP
