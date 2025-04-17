@@ -1,7 +1,7 @@
 # CS-Academy (Carnegie Mellon)
 
 
-Programs I worked on while doing Carnegie Mellon University's course [CS Academy- College Programming and Computer Science]:
+Programs I worked on while doing Carnegie Mellon University's python course [CS Academy- College Programming and Computer Science]:
 
 A description of the course -
 
